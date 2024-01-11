@@ -1,0 +1,9 @@
+numpy
+opencv-python
+scipy
+pillow
+torchvision
+torch
+scikit-learn
+joblib
+retina-face
