@@ -78,7 +78,7 @@ def populate_landmarks_dictionary(landmarks_dictionary: ImageLandmarks, emotions
 
 
 if __name__ == '__main__':
-    path = "D://dataspellprojects//spigabasedck+//picsKDEF"
+    path = ".//pics_KDEF"
     dataset = 'wflw'
     processor = SPIGAFramework(ModelConfig(dataset))
     emotions = ["neutral", "afraid", "angry", "disgusted", "happy", "sad", "surprised"]
